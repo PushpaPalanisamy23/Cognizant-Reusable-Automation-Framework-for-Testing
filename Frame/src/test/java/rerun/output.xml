@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><ReportPortal>
+        <ExecutionDetails>
+                <project_name>Production</project_name>
+                <application_id>ProductionDistribution</application_id>
+                <application_name>Distribution</application_name>
+                <tool>Selenium</tool>
+                <job_name>CRAFT_Maven_Prod_GA</job_name>
+                <run_name>Run_04-Apr-2019_01-28-07_AM</run_name>
+                <run_id>CRAFT_Maven_Prod_GARun_04-Apr-2019_01-28-07_AM</run_id>
+                <reportproject_name/>
+                <platform>Local Machine</platform>
+                <environment>CHROME on WINDOWS</environment>
+                <exeStarttime>2019-04-04 01:28:07.0</exeStarttime>
+                <exeEndtime>2019-04-04 01:29:48.0</exeEndtime>
+                <totalDuration>0:1:41</totalDuration>
+                <passed>1</passed>
+                <failed>0</failed>
+                <notexecuted>0</notexecuted>
+        </ExecutionDetails>
+        <Testcase>
+                <SNo>0</SNo>
+                <tc_id>04-Apr-2019_01-28-07_AMHCPDental</tc_id>
+                <Module>GA_Batch_1</Module>
+                <tc_name>HCPDental</tc_name>
+                <starttime>2019-04-04 01:29:16.0</starttime>
+                <endtime>2019-04-04 01:29:48.0</endtime>
+                <duration>0:0:32</duration>
+                <tc_status>Passed</tc_status>
+                <step_status>PASS#2019-04-04 01:29:16.0#Element Displayed button x::button x displayed successfully#D:\Winium\CRAFT_Maven_Prod_GA\Results\Regression\Run_04-Apr-2019_01-28-07_AM\Screenshots\GA_Batch_1_HCPDental_Instance1_04-Apr-2019_01-29-15_AM_Element_Displayed_button_x.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:18.0#Clicking button x::button x is clicked#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>PASS#2019-04-04 01:29:19.0#Open Home page::Home page opened successfully#D:\Winium\CRAFT_Maven_Prod_GA\Results\Regression\Run_04-Apr-2019_01-28-07_AM\Screenshots\GA_Batch_1_HCPDental_Instance1_04-Apr-2019_01-29-19_AM_Open_Home_page.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:24.0#Clicking Contact us::Contact us is clicked#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:26.0#Clicking Secure channel::Secure channel is clicked#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:30.0#Clicking Health care professional::Health care professional is clicked#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:32.0#Clicking Dental::Dental is clicked#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:32.0#Displaying Group id::Group id exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:33.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:34.0#Displaying first name::first name exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:34.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:35.0#Displaying Last name::Last name exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:35.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:36.0#Displaying Email adress::Email adress exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:36.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:37.0#Displaying SSN1::SSN1 exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:37.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:38.0#Displaying SSN2::SSN2 exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:38.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:39.0#Displaying SSN3::SSN3 exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:39.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:40.0#Displaying Tax payer id::Tax payer id exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:40.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:41.0#Displaying Claim number::Claim number exists#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>DONE#2019-04-04 01:29:41.0#Checking the data::Data found :#D:\Winium\CRAFT_Maven_Prod_GA\src\test\java\rerun\NoImageFound.png</step_status>
+                <step_status>PASS#2019-04-04 01:29:43.0#Existence of element::Attachment 1 is displayed successfully#D:\Winium\CRAFT_Maven_Prod_GA\Results\Regression\Run_04-Apr-2019_01-28-07_AM\Screenshots\GA_Batch_1_HCPDental_Instance1_04-Apr-2019_01-29-43_AM_Existence_of_element.png</step_status>
+                <step_status>PASS#2019-04-04 01:29:45.0#Existence of element::Add additional Attachments is displayed successfully#D:\Winium\CRAFT_Maven_Prod_GA\Results\Regression\Run_04-Apr-2019_01-28-07_AM\Screenshots\GA_Batch_1_HCPDental_Instance1_04-Apr-2019_01-29-45_AM_Existence_of_element.png</step_status>
+                <step_status>PASS#2019-04-04 01:29:47.0#Existence of element::Submit is displayed successfully#D:\Winium\CRAFT_Maven_Prod_GA\Results\Regression\Run_04-Apr-2019_01-28-07_AM\Screenshots\GA_Batch_1_HCPDental_Instance1_04-Apr-2019_01-29-46_AM_Existence_of_element.png</step_status>
+                <step_status>PASS#2019-04-04 01:29:48.0#Existence of element::Cancel is displayed successfully#D:\Winium\CRAFT_Maven_Prod_GA\Results\Regression\Run_04-Apr-2019_01-28-07_AM\Screenshots\GA_Batch_1_HCPDental_Instance1_04-Apr-2019_01-29-48_AM_Existence_of_element.png</step_status>
+        </Testcase>
+</ReportPortal>

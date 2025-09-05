@@ -1,0 +1,67 @@
+if(Application.equals('ACS')){
+return['ALL','TC_01_ACS']
+}else if(Application.equals('AEPGOL')){
+return['ALL','TC_01_AEPGOL']
+}else if(Application.equals('APDash')){
+return['ALL','TC_01_APDash']
+}else if(Application.equals('BOBDash')){
+return['ALL','TC_01_BOBDash']
+}else if(Application.equals('TNBDash')){
+return['ALL','TC_01_TNBDash']
+}else if(Application.equals('AgentModel')){
+return['ALL','TC_01_AgentModel']
+}else if(Application.equals('CompanyStore')){
+return['ALL','TC_01_CompanyStore']
+}else if(Application.equals('GOLGoogleSearch')){
+return['ALL','TC_01_GOLGoogleSearch']
+}else if(Application.equals('CFG')){
+return['ALL','TC_01_CFG']
+}else if(Application.equals('SoftwareDownload')){
+return['ALL','TC_01_SoftwareDownload']
+}else if(Application.equals('TerminalEquity')){
+return['ALL','TC_01_TerminalEquity']
+}else if(Application.equals('UCV')){
+return['ALL','TC_01_UCV']
+}else if(Application.equals('UnitAdmin')){
+return['ALL','TC_01_UnitAdmin']
+}else if(Application.equals('VitalSigns')){
+return['ALL','TC_01_VitalSigns']
+}else if(Application.equals('NYS')){
+return['ALL','TC_01_NYS']
+}else if(Application.equals('OTTO')){
+return['ALL','TC_01_OTTO']
+}else if(Application.equals('PCA')){
+return['ALL','TC_01_PCA']
+}else if(Application.equals('secAdmin')){
+return['ALL','TC_01_secAdmin']
+}else if(Application.equals('ConsolidatedCommissions')){
+return['ALL','TC_01_ConsolidatedCommissions']
+}else if(Application.equals('FRComp')){
+return['ALL','TC_01_FRComp']
+}else if(Application.equals('IID')){
+return['ALL','TC_01_IID']
+}else if(Application.equals('MMCS')){
+return['ALL','TC_01_MMCS']
+}else if(Application.equals('MarketEdge')){
+return['ALL','TC_01_MarketEdge']
+}else if(Application.equals('LBS')){
+return['ALL','TC_01_LBS']
+}else if(Application.equals('LBSMini')){
+return['ALL','TC_01_LBSMini']
+}else if(Application.equals('MAM_IMP')){
+return['ALL','TC_01_MAM_IMP']
+}else if(Application.equals('iPipeline')){
+return['ALL','TC_01_iPipeline']
+}else if(Application.equals('CandidatePortal')){
+return['ALL','TC_01_Candidate_portal']
+}else if(Application.equals('EFT')){
+return['ALL','TC_01_EFT']
+}else if(Application.equals('Smart Office')){
+return['ALL','TC_01_smart_office']
+}else if(Application.contains(',')){
+return['ALL']
+}else if(Application.equals('ALL')){
+return['ALL']
+}else{
+return['Select Application']
+}
